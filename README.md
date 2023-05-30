@@ -7,7 +7,7 @@ Cette application ne prend aucune information personnelle.
 
 * Utilisable hors connection.
 * Affiche la liste des parcs trier par distance.
-* Affiche la superficie des parcs trier par distance.
+* Affiche la superficie en m² des parcs trier par distance.
 * Redirige vers le maps pour avoir l'itiniare +  calcule la distance.
 * Tout le monde peut utilser cette application sans exception.
 
