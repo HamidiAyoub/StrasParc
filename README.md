@@ -11,15 +11,16 @@ Cette application ne prend aucune information personnelle des utilisateurs.
 
 ## Cette application affiche la superficie des parcs et la distance entre l'utilisateur et les parcs publics de la ville de Strasbourg.
 
-* Utilisable hors connexion.
+* Utilisable hors connexion et avec connexion.
 * Affiche la liste des parcs trier par distance.
 * Affiche la superficie des parcs  en m² trier par distance.
 * Redirige vers le maps pour avoir l'itineraire.
 * Tout le monde peut utiliser cette application sans exception.
+* Cette application ne contient pas de publicité.
 
 Application utile.
 
-Faire un don c'est sauver un animale. 
+Vous pouvez faire un don sois avec paypal sois avec BTC, ETH, SHIBA, un don sauve un animale. 
 
 contact: a.hamidi@hotmail.fr
 Tel:0758480886
