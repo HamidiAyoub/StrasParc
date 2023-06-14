@@ -3,13 +3,13 @@ Une App qui affiche la liste des Parcs de la ville de Strasbourg listé par leur
 Confirmez l'accès à votre localisation pour que l'application calcule la distance entre vous et les Parcs.
 Cette application ne prend aucune information personnelle.
 
-## Cette application affiche la distance entre l'uilisateur et les parcs public de la ville de strasbourg.
+## Cette application affiche la distance entre l'utilisateur et les parcs publics de la ville de Strasbourg.
 
-* Utilisable hors connection.
+* Utilisable hors connexion.
 * Affiche la liste des parcs trier par distance.
 * Affiche la superficie en m² des parcs trier par distance.
-* Redirige vers le maps pour avoir l'itiniare +  calcule la distance.
-* Tout le monde peut utilser cette application sans exception.
+* Redirige vers le maps pour avoir l'itineraire +  calcule la distance.
+* Tout le monde peut utiliser cette application sans exception.
 
 ## Cette application ne prend aucune données personnelles des utilisateurs.
 ## Cette application accède à votre position GPS pour calculer la distance entre vous et les parcs.
