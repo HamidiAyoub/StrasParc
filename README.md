@@ -13,7 +13,7 @@ Cette application ne prend aucune information personnelle des utilisateurs.
 
 * Utilisable hors connexion.
 * Affiche la liste des parcs trier par distance.
-* Affiche la superficie des parcs  en m², trier par distance.
+* Affiche la superficie des parcs  en m² trier par distance.
 * Redirige vers le maps pour avoir l'itineraire.
 * Tout le monde peut utiliser cette application sans exception.
 
