@@ -1,8 +1,11 @@
 # StrasParc V1:
 
-Une Application qui affiche la liste des Parcs de la ville de Strasbourg listé par leur distance par rapport à l'utilisateur. 
+Une Application qui affiche la liste des Parcs de la ville de Strasbourg listé par leur distance par rapport à l'utilisateur.
 
-## Confirmez l'accès à votre localisation
+Vos données personnelles ne sont pas exploitées par le créateur de l'application.
+Votre position est utilisé pour calculer la distance.
+
+Confirmez l'accès à votre localisation:
 Pour que l'application calcule la distance entre vous et les Parcs.
 Cette application ne prend aucune information personnelle.
 
@@ -14,9 +17,9 @@ Cette application ne prend aucune information personnelle.
 * Redirige vers le maps pour avoir l'itineraire +  calcule la distance.
 * Tout le monde peut utiliser cette application sans exception.
 
-## Cette application ne prend aucune données personnelles des utilisateurs.
-## Cette application accède à votre position GPS pour calculer la distance entre vous et les parcs.
-## Application utile.
+Cette application ne prend aucune données personnelles des utilisateurs.
+Cette application accède à votre position GPS pour calculer la distance entre vous et les parcs.
+Application utile.
 
 Faire un don c'est sauver un animale. 
 
